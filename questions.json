@@ -1,0 +1,63 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Subtract and fill in the answer in the blank boxes to help the pirates in finding the doubloons.",
+    "options":["1","6","0","4","",""],
+    "answers": ["1","6","0","4","1","2"]
+  },
+  {
+    "questionNo": 2,
+    "question": "The pirates found 19 maps but lost 10. Subtract and fill in the blank boxes to find the left maps.",
+    "options":["1","9","1","0","",""],
+    "answers": ["1","9","1","0","0","9"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": " Subtract and fill in the answer in the blank boxes to help the pirates count their pearls.",
+    "options":["2","4","1","1","",""],
+    "answers": ["2","4","1","1","1","3"]
+  },
+  {
+    "questionNo": 4,
+    "question": "The pirates gathered 30 coconuts but drank 12. Subtract and fill in the blank boxes to find left coconuts.",
+    "options":["3","0","1","0","",""],
+    "answers": ["3","0","1","0","2","0"]
+  },
+  {
+    "questionNo": 5,
+    "question": "The crew collected and lost some seashells. Subtract and fill in the blank boxes to find the left seashells.",
+    "options":["2","9","1","8","",""],
+    "answers": ["2","9","1","8","1","1"]
+  },
+  {
+    "questionNo": 6,
+    "question": "Captain Jack’s parrot counted 27 fruits and ate14 of them. Subtract to find the left fruits.",
+    "options":["2","7","1","4","",""],
+    "answers": ["2","7","1","4","1","3"]
+  },
+  {
+    "questionNo": 7,
+    "question": "The ship had 37 cannonballs and they used 23 in a practice drill. <BR>Fill in the blank boxes to find the left cannonballs.",
+    "options":["3","7","2","3","",""],
+    "answers": ["3","7","2","3","1","4"]
+  },
+  {
+    "questionNo": 8,
+    "question": "Subtract and fill in the answer in the blank boxes to help the pirates in calculating barrels of fresh water.",
+    "options":["4","1","2","0","",""],
+    "answers": ["4","1","2","0","2","1"]
+  },
+  {
+    "questionNo": 9,
+    "question": "The crew found shiny jewels. Subtract and fill in the blank boxes to find the left jewels:",
+    "options":["4","5","3","2","",""],
+    "answers": ["4","5","3","2","1","3"]
+  },
+  {
+    "questionNo": 10,
+    "question": "The pirates caught 49 fishes but ate 17. Subtract and fill in the blank boxes to find left fishes.",
+    "options":["4","9","1","7","",""],
+    "answers": ["4","9","1","7","3","2"]
+  }
+]
